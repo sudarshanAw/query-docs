@@ -71,8 +71,8 @@ Returns:
   
 **12,345.67** "Standard" displays at least one digit to the left of the decimal separator and two digits to the right of the decimal separator, and includes thousand separators. The sample here shows the default United States number formatting.  
   
-**1,234,567.00 %** "Percent" displays the number as a percentage (multiplied by 100) with formatting and the percent sign at the right of the number separated by a single space.  
-  
+**1,234,567.00%** "Percent" displays the number as a percentage (multiplied by 100) with formatting and the percent sign at the right of the number. 
+
 **1.23E+04** "Scientific" displays the number in scientific notation with two decimal digits.
 
 #### Datetime with optional locale_name
